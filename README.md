@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hello, I'm Mayank Madhavi!
 
-<!--
-**Mayank0201/Mayank0201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Skills
 
-Here are some ideas to get you started:
+### Frontend
+- HTML, CSS
+- Intermediate JavaScript (EJS, Node.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- Intermediate Java
+- Intermediate Kotlin
+- Basic Python
+
+### Mobile Development
+- Intermediate Android Studio (Jetpack Compose)
+- Basic React Native
+
+### Frameworks & Tools
+- Intermediate Spring Boot
+- Basic JavaFX
+
+### Database
+- Intermediate MySQL
+
+### Version Control
+- Git
+
+---
+
+## 📊 GitHub Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank0201&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mayank0201&layout=compact&theme=radical)
