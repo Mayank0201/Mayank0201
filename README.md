@@ -24,11 +24,3 @@
 
 ### Version Control
 - Git
-
----
-
-## 📊 GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank0201&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mayank0201&layout=compact&theme=radical)
