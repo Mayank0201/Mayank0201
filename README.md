@@ -13,7 +13,7 @@
 
 ### Mobile Development
 - Intermediate Android Studio (Jetpack Compose)
-- Basic React Native
+- Basic React Native and Flutter
 
 ### Frameworks & Tools
 - Intermediate Spring Boot
